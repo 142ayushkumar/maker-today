@@ -11,9 +11,21 @@ $ brew install hugo
 ```
 
 #### Linux
-
+You can use snap to isntall:
 ```bash
-TODO
+$ snap install hugo
+```
+Alternatively on Ubuntu and Debian systems:
+```bash
+$ sudo apt-get install hugo
+```
+On Arch Linux:
+```bash
+$ sudo pacman -Syu hugo
+```
+On Fedora, Red Hat and CentOS
+```bash
+$ sudo dnf install hugo
 ```
 
 #### Windows
